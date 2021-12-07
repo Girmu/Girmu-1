@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T15:41:06.402Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="arqiTvf2UAxrx0F1DlAi" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T15:41:44.554Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="hI2K5myvQg2sYTfF84VI" version="15.8.7" type="github">
   <diagram id="DCeRdAVLhO6ZTOsjjHVU" name="Page-1">
     <mxGraphModel dx="978" dy="1836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1204,7 +1204,7 @@
         <mxCell id="tpjrnW_lignRtLn6L6qm-714" value="Investment" style="text;strokeColor=#666666;fillColor=#f5f5f5;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;glass=1;fontColor=#333333;" vertex="1" parent="tpjrnW_lignRtLn6L6qm-706">
           <mxGeometry x="10.5" y="90" width="95.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tpjrnW_lignRtLn6L6qm-715" value="New order" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="tpjrnW_lignRtLn6L6qm-706">
+        <mxCell id="tpjrnW_lignRtLn6L6qm-715" value="New Invest" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="tpjrnW_lignRtLn6L6qm-706">
           <mxGeometry x="14.5" y="160" width="80.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tpjrnW_lignRtLn6L6qm-742" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeColor=default;fillColor=none;" vertex="1" parent="tpjrnW_lignRtLn6L6qm-706">
