@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T06:10:52.818Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="G0xnud-FRN1eqNbn73nW" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T06:15:37.574Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ovh6iPvMRADUcJeaCjdo" version="16.6.2" type="github">
   <diagram id="waAiEn6bN3vPVlJB9LQT" name="Page-1">
     <mxGraphModel dx="1255" dy="1041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-17" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Ghana" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="940" y="45" width="200" height="200" as="geometry" />
+        </mxCell>
         <mxCell id="i6jb2LQaHRa2qIKxecd0-1" value="TECHSOL" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="545" y="374" width="80" height="80" as="geometry" />
         </mxCell>
@@ -14,7 +17,7 @@
           <mxGeometry x="340" y="60" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i6jb2LQaHRa2qIKxecd0-4" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;Investor&lt;br&gt;1" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="60" width="60" height="70" as="geometry" />
+          <mxGeometry x="1010" y="60" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="i6jb2LQaHRa2qIKxecd0-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.link;rotation=40;" vertex="1" parent="1">
           <mxGeometry x="310" y="270" width="61" height="21" as="geometry" />
@@ -39,6 +42,36 @@
             <mxPoint x="376.22398818583156" y="307.2929213829268" as="sourcePoint" />
             <mxPoint x="555" y="424" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-15" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;Investor&lt;br&gt;3" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="130" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-16" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;Investor&lt;br&gt;2" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="130" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-18" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Burkina" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="930" y="270" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-19" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;Investor&lt;br&gt;1" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="285" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-20" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;Investor&lt;br&gt;3" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="355" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-21" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;Investor&lt;br&gt;2" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="355" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-27" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Mali" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="930" y="560" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-28" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;Investor&lt;br&gt;1" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="575" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-29" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;Investor&lt;br&gt;3" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="645" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-30" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;Investor&lt;br&gt;2" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="645" width="60" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
