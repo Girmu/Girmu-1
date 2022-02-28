@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T07:07:58.505Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="fW_lGUt_uC2InaUZtPSj" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T07:22:45.417Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="YYWRomJYd63Rg_eAgh-t" version="16.6.2" type="github">
   <diagram id="waAiEn6bN3vPVlJB9LQT" name="Page-1">
     <mxGraphModel dx="1015" dy="1041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
           <mxGeometry x="580" y="1614" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i6jb2LQaHRa2qIKxecd0-51" value="&lt;br&gt;&lt;br&gt;Payer" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1210" width="40" height="60" as="geometry" />
+          <mxGeometry x="80" y="1170" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i6jb2LQaHRa2qIKxecd0-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="i6jb2LQaHRa2qIKxecd0-51" target="i6jb2LQaHRa2qIKxecd0-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -93,10 +93,10 @@
           <mxGeometry x="55" y="1030" width="115" height="90" as="geometry" />
         </mxCell>
         <mxCell id="i6jb2LQaHRa2qIKxecd0-57" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;- Name&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;- Amount&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;- ID number&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;- Pay to:&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;. Bank account&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;. Mobile money&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;. Cash&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1495" width="115" height="120" as="geometry" />
+          <mxGeometry x="930" y="1930" width="115" height="120" as="geometry" />
         </mxCell>
         <mxCell id="i6jb2LQaHRa2qIKxecd0-58" value="Encrypted short code&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;- Beneficiary info&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;- Payer info&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1200" width="120" height="30" as="geometry" />
+          <mxGeometry x="250" y="1170" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i6jb2LQaHRa2qIKxecd0-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1.017;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;dashed=1;entryPerimeter=0;strokeColor=#00FF00;strokeWidth=2;" edge="1" parent="1" source="i6jb2LQaHRa2qIKxecd0-35" target="i6jb2LQaHRa2qIKxecd0-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -163,7 +163,7 @@
           <mxGeometry x="670" y="1897" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i6jb2LQaHRa2qIKxecd0-89" value="Debit the account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1260" width="140" height="30" as="geometry" />
+          <mxGeometry x="255" y="1240" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i6jb2LQaHRa2qIKxecd0-90" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.992;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;entryPerimeter=0;strokeColor=#FF0000;" edge="1" parent="1" source="i6jb2LQaHRa2qIKxecd0-35" target="i6jb2LQaHRa2qIKxecd0-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -175,7 +175,7 @@
           <mxGeometry x="960" y="880" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i6jb2LQaHRa2qIKxecd0-92" value="&lt;br&gt;&lt;br&gt;Payer" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1220" width="40" height="60" as="geometry" />
+          <mxGeometry x="960" y="1185" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i6jb2LQaHRa2qIKxecd0-93" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1.05;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="i6jb2LQaHRa2qIKxecd0-91" target="i6jb2LQaHRa2qIKxecd0-92">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -197,16 +197,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i6jb2LQaHRa2qIKxecd0-96" value="Encrypted short code&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;- Beneficiary info&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;- Payer info&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="1200" width="120" height="30" as="geometry" />
+          <mxGeometry x="690" y="1185" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i6jb2LQaHRa2qIKxecd0-97" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.075;entryY=0.992;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;dashed=1;entryPerimeter=0;strokeColor=#FF0000;" edge="1" parent="1" source="i6jb2LQaHRa2qIKxecd0-35" target="i6jb2LQaHRa2qIKxecd0-92">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="566.7157287525379" y="1272.2842712474621" as="sourcePoint" />
             <mxPoint x="130" y="1279.52" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="i6jb2LQaHRa2qIKxecd0-98" value="Debit the account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="1270" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i6jb2LQaHRa2qIKxecd0-99" value="UBA" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="585" y="880" width="60" height="60" as="geometry" />
@@ -240,6 +237,122 @@
         </mxCell>
         <mxCell id="i6jb2LQaHRa2qIKxecd0-106" value="Credit the account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="895" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-107" value="&lt;br&gt;&lt;br&gt;&amp;nbsp;Client 1" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1260" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-108" value="&lt;br&gt;&lt;br&gt;Payer" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1550" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-109" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;dashed=1;" edge="1" source="i6jb2LQaHRa2qIKxecd0-108" parent="1" target="i6jb2LQaHRa2qIKxecd0-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="1640" as="sourcePoint" />
+            <mxPoint x="545" y="1624" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-110" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.025;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="i6jb2LQaHRa2qIKxecd0-107" target="i6jb2LQaHRa2qIKxecd0-108" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="1570" as="sourcePoint" />
+            <mxPoint x="130" y="1520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="1450" />
+              <mxPoint x="30" y="1570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-111" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;- Name&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;- Amount&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;- ID number&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;- Pay to:&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;. Mobile money&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1420" width="115" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-112" value="Encrypted short code&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;- Beneficiary info&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;- Payer info&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-40;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1330" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-113" value="Credit the account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1440" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-114" value="Debit the account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1650" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-115" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1.017;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;dashed=1;entryPerimeter=0;strokeColor=#00FF00;strokeWidth=2;" edge="1" target="i6jb2LQaHRa2qIKxecd0-107" parent="1" source="i6jb2LQaHRa2qIKxecd0-119">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="556.7157287525379" y="1595.7157287525379" as="sourcePoint" />
+            <mxPoint x="1020" y="1325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-116" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.992;entryDx=0;entryDy=0;dashed=1;entryPerimeter=0;strokeColor=#FF0000;exitX=0.625;exitY=0.994;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="i6jb2LQaHRa2qIKxecd0-108" parent="1" source="i6jb2LQaHRa2qIKxecd0-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="1410" as="sourcePoint" />
+            <mxPoint x="130" y="1291.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-119" value="MTN" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1510" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-120" value="Debit the account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1500" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-121" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;exitX=0.675;exitY=0.969;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="i6jb2LQaHRa2qIKxecd0-35" target="i6jb2LQaHRa2qIKxecd0-119">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="596.0734387656657" y="1204.0144059789527" as="sourcePoint" />
+            <mxPoint x="603.7" y="945.6500000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-122" value="Payment to beneficiary&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;- Beneficiary info&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1380" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-123" value="&lt;br&gt;&lt;br&gt;&amp;nbsp;Client 1" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1260" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-124" value="&lt;br&gt;&lt;br&gt;Payer" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="967.5" y="1540" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-125" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1.05;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" source="i6jb2LQaHRa2qIKxecd0-123" target="i6jb2LQaHRa2qIKxecd0-124" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1036.72" y="1290" as="sourcePoint" />
+            <mxPoint x="1039.72" y="1591.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1125.72" y="1415.75" />
+              <mxPoint x="1085.72" y="1535.75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-126" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;- Name&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;- Amount&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;- ID number&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;- Pay to:&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;. Mobile money&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="986.72" y="1400" width="115" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-127" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.763;entryY=0.919;entryDx=0;entryDy=0;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;exitPerimeter=0;entryPerimeter=0;" edge="1" source="i6jb2LQaHRa2qIKxecd0-124" parent="1" target="i6jb2LQaHRa2qIKxecd0-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="136.72" y="1615" as="sourcePoint" />
+            <mxPoint x="631.72" y="1584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-128" value="Encrypted short code&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;- Beneficiary info&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;- Payer info&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1430" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-129" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.075;entryY=0.992;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;dashed=1;entryPerimeter=0;strokeColor=#FF0000;" edge="1" target="i6jb2LQaHRa2qIKxecd0-124" parent="1" source="i6jb2LQaHRa2qIKxecd0-119">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620.0042712474622" y="1612.2842712474621" as="sourcePoint" />
+            <mxPoint x="136.72" y="1629.52" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-130" value="Debit the account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1540" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-131" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.025;entryY=0.975;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryPerimeter=0;strokeColor=#00FF00;strokeWidth=2;" edge="1" target="i6jb2LQaHRa2qIKxecd0-123" parent="1" source="i6jb2LQaHRa2qIKxecd0-119">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="651.72" y="1267.5" as="sourcePoint" />
+            <mxPoint x="136.72" y="1301.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-132" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#0000CC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="351.5459414107147" y="1717" as="sourcePoint" />
+            <mxPoint x="350.00427124746216" y="1982.7157287525379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-134" value="Debit the account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="706.72" y="1245" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-135" value="Credit the account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="776" y="1358" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
