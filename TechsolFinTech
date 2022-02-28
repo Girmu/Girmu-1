@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T07:22:45.417Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="YYWRomJYd63Rg_eAgh-t" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T13:37:00.755Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="2LeCjwjf4JqWG6VwVKIt" version="16.6.2" type="github">
   <diagram id="waAiEn6bN3vPVlJB9LQT" name="Page-1">
-    <mxGraphModel dx="1015" dy="1041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1015" dy="1868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -353,6 +353,15 @@
         </mxCell>
         <mxCell id="i6jb2LQaHRa2qIKxecd0-135" value="Credit the account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="776" y="1358" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-136" value="&lt;br&gt;&lt;br&gt;User" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-610" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-137" value="User Registration requirements&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;- Provide ID&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;- Create TFT account&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;- Bank account&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;- Mobile money&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-770" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-138" value="Agent Registration requirements&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;- Provide ID&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;- Create TFT&amp;nbsp; agent account&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;- Bank account&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;- Mobile money&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="-770" width="195" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
