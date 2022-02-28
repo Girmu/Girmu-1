@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T13:49:31.440Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="rQ7PZy0n98DhhlSoFjKP" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T14:07:17.911Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="B10CK4SZwVqYF3WKxx6y" version="16.6.2" type="github">
   <diagram id="waAiEn6bN3vPVlJB9LQT" name="Page-1">
     <mxGraphModel dx="1015" dy="1868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -374,6 +374,9 @@
         </mxCell>
         <mxCell id="i6jb2LQaHRa2qIKxecd0-143" value="NOTE&lt;br&gt;All transactions on TFT platform are locally paid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="-330" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i6jb2LQaHRa2qIKxecd0-144" value="INVESTMENT&lt;br&gt;Par of investments are locally based to serve local payment and reduce international transaction fee.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="-700" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
