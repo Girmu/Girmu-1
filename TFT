@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T18:08:51.936Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="BrbwC5wSQhvIZlU9sF-t" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T18:12:21.910Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="bI_nWngtvD_bYGGvRoVa" version="16.6.4" type="github">
   <diagram id="e6IASGykVDqNX9z1fhxP" name="Page-1">
     <mxGraphModel dx="1360" dy="1041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,17 +7,8 @@
         <mxCell id="cZmIibxigqsv9EgueGws-6" value="Login&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="279" y="84" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cZmIibxigqsv9EgueGws-15" value="Account info" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1221" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cZmIibxigqsv9EgueGws-19" value="Top up" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="900" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="cZmIibxigqsv9EgueGws-20" value="Top up" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1221" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cZmIibxigqsv9EgueGws-21" value="Top up" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cZmIibxigqsv9EgueGws-22" value="Landing page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="90" height="40" as="geometry" />
@@ -189,6 +180,9 @@
             <mxPoint x="180" y="370" as="sourcePoint" />
             <mxPoint x="240" y="370" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cZmIibxigqsv9EgueGws-61" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="1041" width="200" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
